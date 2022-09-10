@@ -1,0 +1,8 @@
+.map-box1 {
+    min-height: 600px;
+}
+
+.content-box,
+.body-right {
+    position: relative;
+}
